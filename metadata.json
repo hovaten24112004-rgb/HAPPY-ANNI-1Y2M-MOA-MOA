@@ -1,0 +1,6 @@
+{
+  "name": "Món Quà Sinh Nhật Tương Tác",
+  "description": "Ứng dụng web quà tặng sinh nhật tương tác với vòng quay ngày sinh, thổi nến 3D, pháo giấy confetti, trái tim ghép ảnh, thư tay và điều ước sao băng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
